@@ -1,0 +1,4 @@
+baseURL = 'https://drox.zone/'
+languageCode = 'en-us'
+title = 'drox.zone'
+theme = "hugo-theme-shell"
